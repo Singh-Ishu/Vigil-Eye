@@ -5,7 +5,7 @@ import SubscriptionSummary from "./components/SubscriptionSummary";
 
 function App() {
     return (
-        <div style={{ padding: "2rem" }}>
+        <div>
             <h1>🛡️ Vigil-Eye Dashboard</h1>
             <ConsentLogger />
             <hr />
